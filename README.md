@@ -19,3 +19,6 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 ## 四、示例案例数据内容目录 
 有部分订阅者向我提出建议：由于专栏的文章数量比较多，他们想找自己关注的主题内容比较费劲，提出按照内容主题不同来划分分类，给出每类文章的链接列表，方便他们查看。所以，我按照不同主题系列划分以下六大类：
 [TOC]
+
+# arcgis api 3.x for js开发系列文章
+[arcgis api 3.x for js 地图加载多个气泡窗口展示（附源码下载）](https://xiaozhuanlan.com/topic/2014597863)
