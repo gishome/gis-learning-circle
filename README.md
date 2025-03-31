@@ -13,4 +13,5 @@ GIS之家的学习交流圈，专注gis知识领域。【知乎GIS之家专栏�
 🔥WebGIS地图服务发布部署操作教程  
 🔥WebGIS数据资源分享（示例以及项目案例的学习数据素材）  
 
-## 三、必备知识 JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
+## 三、必备知识 
+JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
