@@ -16,7 +16,7 @@ GIS之家的学习交流圈，专注gis知识领域。【知乎GIS之家专栏�
 ## 三、必备知识 
 JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 
-## 四、内容导航目录
+## 四、导航目录
 
 [TOC]
 
