@@ -16,10 +16,8 @@ GIS之家的学习交流圈，专注gis知识领域。【知乎GIS之家专栏�
 ## 三、必备知识 
 JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 
-## 四、内容导航
-
-[TOC]
+## 四、内容导航  
 
 ## vue3+leaflet系列示例案例
 [vue3+leaflet示例：在线地图切换](https://github.com/gishome/gis-learning-circle/tree/main/vue3%2Bleaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2)  
-- <a href="https://xiaozhuanlan.com/topic/2014597863" target="_blank" rel="noopener noreferrer">arcgis api 3.x for js 地图加载多个气泡窗口展示（附源码下载）</a>
+
