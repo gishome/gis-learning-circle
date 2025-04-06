@@ -1,6 +1,7 @@
 ## GIS之家的学习交流圈
 - GIS之家的学习交流圈，专注gis知识领域。知乎【GIS之家专栏】、公众号【gishome】、小专栏【GIS之家】、知识星球【GIS之家的学习交流圈】4个专栏的主创者，网名GIS之家，深耕WebGIS领域，目前广州工作，GIS研发工程师，已积累超过十年的GIS行业工作经验，拥有丰富的WebGIS开发项目实战经验。  
 - 所有的示例案例源码以及GIS数据资源全部分享在知识星球【GIS之家的学习交流圈】，感兴趣的GISer可以加入，一起学习交流：[GIS之家的学习交流圈](https://t.zsxq.com/Ivg49)   
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/GIS%E4%B9%8B%E5%AE%B6%E7%9A%84%E5%AD%A6%E4%B9%A0%E4%BA%A4%E6%B5%81%E5%9C%88/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg)
 
 ## 一、服务对象  
 1️⃣WebGIS初学者/小白  
