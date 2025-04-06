@@ -1,0 +1,30 @@
+{
+  "name": "vue3leaflet",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --mode development",
+    "build:beta": "vite build --mode beta",
+    "build:release": "vite build --mode release",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.17",
+    "leaflet": "^1.9.3",
+    "leaflet.chinaprovider": "^0.1.0",
+    "proj4": "^2.8.1",
+    "proj4leaflet": "^1.0.2",
+    "unplugin-vue-components": "^0.22.7",
+    "vue": "^3.2.39",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "2.3.3",
+    "@vue/compiler-sfc": "3.2.39",
+    "sass": "^1.54.9",
+    "unplugin-auto-import": "^0.11.2",
+    "unplugin-element-plus": "^0.4.1",
+    "vite": "2.5.10",
+    "vite-plugin-babel-import": "2.0.2"
+  }
+}
