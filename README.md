@@ -25,5 +25,6 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+leaflet示例：图层管理](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9B%BE%E5%B1%82%E7%AE%A1%E7%90%86)   
 [vue3+leaflet示例：地图分屏对比](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%B0%E5%9B%BE%E5%88%86%E5%B1%8F%E5%AF%B9%E6%AF%94)  
 [vue3+leaflet示例：克里金插值渲染](https://gitee.com/gishome/gis-learning-circle/blob/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%85%8B%E9%87%8C%E9%87%91%E6%8F%92%E5%80%BC%E6%B8%B2%E6%9F%93%E6%98%BE%E7%A4%BA/%E5%85%8B%E9%87%8C%E9%87%91%E6%8F%92%E5%80%BC%E6%B8%B2%E6%9F%93%E6%98%BE%E7%A4%BA.md)   
-[vue3+leaflet示例：geojson数据地形剖面分析](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/geojson%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%BD%A2%E5%89%96%E9%9D%A2%E5%88%86%E6%9E%90) 
+[vue3+leaflet示例：geojson数据地形剖面分析](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/geojson%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%BD%A2%E5%89%96%E9%9D%A2%E5%88%86%E6%9E%90)   
+[vue3+leaflet示例：地图卷帘对比](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%B0%E5%9B%BE%E5%8D%B7%E5%B8%98%E5%AF%B9%E6%AF%94) 
 
