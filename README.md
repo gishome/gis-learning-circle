@@ -29,4 +29,5 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+leaflet示例：地图卷帘对比](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%B0%E5%9B%BE%E5%8D%B7%E5%B8%98%E5%AF%B9%E6%AF%94)   
 
 ## 地图数据资源集合
-[GIS之家数据资源：全国行政区划](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92.md) 
+[GIS之家数据资源：全国行政区划](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92.md)   
+[GIS之家数据资源：全国建筑轮廓](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E5%BB%BA%E7%AD%91%E8%BD%AE%E5%BB%93.md) 
