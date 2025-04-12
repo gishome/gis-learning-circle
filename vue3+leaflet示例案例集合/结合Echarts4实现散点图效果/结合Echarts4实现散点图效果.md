@@ -10,12 +10,12 @@
 
 # 示例效果
 效果图如下：
-![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%85%8B%E9%87%8C%E9%87%91%E6%8F%92%E5%80%BC%E6%B8%B2%E6%9F%93.jpg)
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%BB%93%E5%90%88Echarts4%E5%AE%9E%E7%8E%B0%E6%95%A3%E7%82%B9%E5%9B%BE%E6%95%88%E6%9E%9C.jpg)
 
 >实现思路
 - 从官网下载 Echarts4 源码，通过 _theme进行定位，定位到 function Echarts(){ } 里面的 this._theme = theme$$1;添加一行代码： this._geo = Geo;
 echarts.js 修改之处：
-![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%85%8B%E9%87%8C%E9%87%91%E6%8F%92%E5%80%BC%E6%B8%B2%E6%9F%93.jpg)
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/echarts.jpg)
 - 对 leaflet Layer 类进行扩展，新建 js 文件 leaflet-echarts.js，核心是 Echarts 的散点图其实也是在一个 Div 上画的，只要把这个 div 给拿到 map-pane 里面的 overlay-pane 。关于点的位置，因为 Echarts 内部自己有个把地理坐标转为像素坐标的方法，要重写 Echarts 内部方法 dataToPoint，完整的源码见文章尾部 demo 下载
 ```
 initECharts: function(){
