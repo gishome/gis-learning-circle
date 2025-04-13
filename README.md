@@ -19,10 +19,10 @@
 JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 
 ## 四、内容导航  
-## vue+cesium示例集合
+## vue+cesium示例案例集合
 [vue3+Cesium示例：建筑物单体化分层](https://gitee.com/gishome/gis-learning-circle/blob/main/vue%2Bcesium%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%BB%BA%E7%AD%91%E7%89%A9%E5%8D%95%E4%BD%93%E5%8C%96%E6%95%B4%E6%A0%8B%E5%88%86%E5%B1%82/%E5%85%8B%E9%87%8C%E9%87%91%E6%8F%92%E5%80%BC%E6%B8%B2%E6%9F%93%E6%98%BE%E7%A4%BA.md)   
 
-## vue3+leaflet示例集合
+## vue3+leaflet示例案例集合
 [vue3+leaflet示例：在线地图切换](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2)   
 [vue3+leaflet示例：图层管理](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9B%BE%E5%B1%82%E7%AE%A1%E7%90%86)   
 [vue3+leaflet示例：地图分屏对比](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%B0%E5%9B%BE%E5%88%86%E5%B1%8F%E5%AF%B9%E6%AF%94)  
