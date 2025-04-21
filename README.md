@@ -36,3 +36,4 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 ## 地图数据资源
 [GIS之家数据资源：全国行政区划](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92.md)   
 [GIS之家数据资源：全国建筑轮廓](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E5%BB%BA%E7%AD%91%E8%BD%AE%E5%BB%93.md) 
+[GIS之家数据资源：全国建筑轮廓（带层数）](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E5%BB%BA%E7%AD%91%E8%BD%AE%E5%BB%93%EF%BC%88%E5%B8%A6%E5%B1%82%E6%95%B0%EF%BC%89.md) 
