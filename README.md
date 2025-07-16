@@ -37,6 +37,9 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+leaflet示例：地图卷帘对比](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%B0%E5%9B%BE%E5%8D%B7%E5%B8%98%E5%AF%B9%E6%AF%94)   
 [vue3+leaflet示例：结合Echarts4实现散点图效果](https://gitee.com/gishome/gis-learning-circle/blob/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E7%BB%93%E5%90%88Echarts4%E5%AE%9E%E7%8E%B0%E6%95%A3%E7%82%B9%E5%9B%BE%E6%95%88%E6%9E%9C.md)   
 
+## vue3+arcgisAPI4示例案例  
+[vue3+arcgisAPI4示例:底图切换显示](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2)  
+
 ## 地图服务发布操作教程 
 [开源影像tif切图工具gdal2tiles部署以及切图](https://gitee.com/gishome/gis-learning-circle/blob/main/%E5%9C%B0%E5%9B%BE%E6%9C%8D%E5%8A%A1%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B/%E5%BC%80%E6%BA%90%E5%BD%B1%E5%83%8Ftif%E5%88%87%E5%9B%BE%E5%B7%A5%E5%85%B7gdal2tiles%E9%83%A8%E7%BD%B2%E4%BB%A5%E5%8F%8A%E5%88%87%E5%9B%BE.md)  
 
