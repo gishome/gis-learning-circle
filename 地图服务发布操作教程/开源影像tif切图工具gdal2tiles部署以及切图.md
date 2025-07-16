@@ -18,9 +18,9 @@
 > 
 - 运行测试gdal2tiles.py切图工具 
 - 拷贝gdal2tiles.py文件到某个目录下，我以我本机截图为例子： 
-1.准备好切图影像数据，我本机是Input4326.tif 
+1.准备好切图影像数据，我本机是Input4326.tif     
 ![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/title6.png)    
-2.打开CMD命令窗口，输入切图工具命令： 
+2.打开CMD命令窗口，输入切图工具命令：    
 ![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/title7.png)    
 
 ![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/title8.png)    
