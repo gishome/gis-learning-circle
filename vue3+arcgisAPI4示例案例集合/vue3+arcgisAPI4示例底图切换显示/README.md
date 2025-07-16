@@ -11,10 +11,9 @@
 # 示例效果
 在线地图包括arcgis地图，天地图，高德地图，百度地图，腾讯地图，OSM地图等十五个不同地图。  
 效果图如下：
-![](https://images.xiaozhuanlan.com/photo/2023/6bb29cddb084771194d6184b1fab4fc1.jpg)
-![](https://images.xiaozhuanlan.com/photo/2023/d506ad6726061c66afa314ec5af55755.jpg)
-![](https://images.xiaozhuanlan.com/photo/2023/d3106d7e9f4d5ca0865f823844b5a34c.jpg)
-![](https://images.xiaozhuanlan.com/photo/2023/28e9143e342166524e196ee86a950a0b.jpg)
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/basemap1.png)
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/basemap2.png)
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/basemap3.png)   
 # 实现思路
 - 核心用到arcgisAPI4的BasemapGallery底图切换控件，专门用来加载不同底图显示，BasemapGallery类具体使用，可以参照api说明。同时也用到Basemap底图类以及WebTileLayer瓦片图层类，为了支持高德，百度以及腾讯地图，自定义拓展了BaseTileLayer图层类。    
 - 地图配置部分代码   
