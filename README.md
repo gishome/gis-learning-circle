@@ -37,7 +37,7 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+leaflet示例：地图卷帘对比](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%B0%E5%9B%BE%E5%8D%B7%E5%B8%98%E5%AF%B9%E6%AF%94)   
 [vue3+leaflet示例：结合Echarts4实现散点图效果](https://gitee.com/gishome/gis-learning-circle/blob/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E7%BB%93%E5%90%88Echarts4%E5%AE%9E%E7%8E%B0%E6%95%A3%E7%82%B9%E5%9B%BE%E6%95%88%E6%9E%9C.md)   
 
-## vue+arcgisAPI4示例案例  
+## vue+arcgisAPI示例案例  
 [vue3+arcgisAPI4示例:底图切换显示](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3%2BarcgisAPI4%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/vue3%2BarcgisAPI4%E7%A4%BA%E4%BE%8B%E5%BA%95%E5%9B%BE%E5%88%87%E6%8D%A2%E6%98%BE%E7%A4%BA)  
 
 ## 地图服务发布操作教程 
