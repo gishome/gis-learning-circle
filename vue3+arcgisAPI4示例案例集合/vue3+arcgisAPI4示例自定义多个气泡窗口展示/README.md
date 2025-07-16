@@ -9,7 +9,7 @@
 
 
 # 示例效果  
-![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/basemap1.png)  
+![](https://gitee.com/gishome/gis-learning-circle/raw/main/%E6%95%88%E6%9E%9C%E5%9B%BE/popup.png)  
 # 实现思路
 - 采用 leaflet 气泡窗口样式 css ，自定义 arcgis api 4.x 气泡窗口 div 容器，地图叠加 div 不难，难的是如何随着地图动态改变而刷新自定义窗口的位置，这也是本篇的核心内容，通过监听地图的变化事件，从而动态刷新气泡窗口的位置变化。    
 - 核心部分代码    
