@@ -72,6 +72,13 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+leaflet案例:南京市充电站可视化平台](https://zhuanlan.zhihu.com/p/1957899785374774361)   
 [vue3+leaflet案例:告警系统GIS一张图](https://zhuanlan.zhihu.com/p/1957798066078875724)   
 
+## vue+openlayers示例案例  
+[vue+openlayers矢量瓦片示例：GeoJSON数据源模式渲染](https://zhuanlan.zhihu.com/p/1958487683774013757)  
+[vue+openlayers矢量瓦片示例：线水流效果](https://zhuanlan.zhihu.com/p/1958478782173280246)  
+[vue+openlayers矢量瓦片示例：全图以及框选导出地图功能](https://zhuanlan.zhihu.com/p/1958481314727592381)  
+[vue+openlayers矢量瓦片示例：地图克里金插值渲染](https://zhuanlan.zhihu.com/p/1958480563246731964)  
+[vue+openlayers矢量瓦片示例：适配arcgis矢量瓦片服务以及样式](https://zhuanlan.zhihu.com/p/1957895184709837780)  
+
 ## vue+arcgisAPI示例案例  
 [vue3+arcgisAPI4示例:底图切换显示](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3%2BarcgisAPI4%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/vue3%2BarcgisAPI4%E7%A4%BA%E4%BE%8B%E5%BA%95%E5%9B%BE%E5%88%87%E6%8D%A2%E6%98%BE%E7%A4%BA)  
 [vue3+arcgisAPI4示例:自定义多个气泡窗口展示](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+arcgisAPI4%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/vue3+arcgisAPI4%E7%A4%BA%E4%BE%8B%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%9A%E4%B8%AA%E6%B0%94%E6%B3%A1%E7%AA%97%E5%8F%A3%E5%B1%95%E7%A4%BA)  
