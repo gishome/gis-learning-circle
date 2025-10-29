@@ -1,6 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import MapCustomShader from '../components/MapCustomShader.vue';
-import MapKriging from '../components/MapKriging.vue';
 import MapGeometry from '../components/MapGeometry.vue';
 
 // 定义路由表
@@ -8,22 +6,6 @@ const routes = [
   {
     path: '/',
     redirect: '/MapGeometry'
-  },
-  {
-    path: '/MapCustomShader',
-    name: 'MapCustomShader',
-    component: MapCustomShader,
-    meta: {
-      title: 'vue3+cesium示例:三维模型customShader自定义材质'
-    }
-  },
-  {
-    path: '/MapKriging',
-    name: 'MapKriging',
-    component: MapKriging,
-    meta: {
-      title: 'vue3+cesium示例:克里金插值渲染'
-    }
   },
   {
     path: '/MapGeometry',
