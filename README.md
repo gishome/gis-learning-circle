@@ -80,6 +80,7 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [开源影像tif切图工具gdal2tiles部署以及切图](https://gitee.com/gishome/gis-learning-circle/blob/main/%E5%9C%B0%E5%9B%BE%E6%9C%8D%E5%8A%A1%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B/%E5%BC%80%E6%BA%90%E5%BD%B1%E5%83%8Ftif%E5%88%87%E5%9B%BE%E5%B7%A5%E5%85%B7gdal2tiles%E9%83%A8%E7%BD%B2%E4%BB%A5%E5%8F%8A%E5%88%87%E5%9B%BE.md)  
 
 ## 地图数据资源
+[GIS之家数据资源：广东省村界SHP数据](https://zhuanlan.zhihu.com/p/1957907260727628288)   
 [GIS之家数据资源：全国水系以及路网](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E8%B7%AF%E7%BD%91%E4%BB%A5%E5%8F%8A%E6%B0%B4%E7%B3%BB.md)   
 [GIS之家数据资源：全国DEM地形](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/DEM%E5%9C%B0%E5%BD%A2.md)   
 [GIS之家数据资源：全国行政区划](https://gitee.com/gishome/gis-learning-circle/blob/main/GIS%E6%95%B0%E6%8D%AE%E8%B5%84%E6%BA%90/%E5%85%A8%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92.md)   
