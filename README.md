@@ -82,6 +82,12 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 ## vue+arcgisAPI示例案例  
 [vue3+arcgisAPI4示例:底图切换显示](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3%2BarcgisAPI4%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/vue3%2BarcgisAPI4%E7%A4%BA%E4%BE%8B%E5%BA%95%E5%9B%BE%E5%88%87%E6%8D%A2%E6%98%BE%E7%A4%BA)  
 [vue3+arcgisAPI4示例:自定义多个气泡窗口展示](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+arcgisAPI4%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/vue3+arcgisAPI4%E7%A4%BA%E4%BE%8B%E8%87%AA%E5%AE%9A%E4%B9%89%E5%A4%9A%E4%B8%AA%E6%B0%94%E6%B3%A1%E7%AA%97%E5%8F%A3%E5%B1%95%E7%A4%BA)  
+[vue3+arcgisAPI4示例:台风轨迹显示](https://zhuanlan.zhihu.com/p/1958488555895656495)  
+[vue3+arcgisAPI4示例:船舶可视化](https://zhuanlan.zhihu.com/p/1958177758900388551)  
+[vue3+arcgisAPI4示例:轨迹点模拟移动](https://zhuanlan.zhihu.com/p/1957896239283703855)  
+[vue3+arcgisAPI4示例:绘图工具动态修改样式导出GeoJSON](https://zhuanlan.zhihu.com/p/1957892550296838879)  
+[vue3+arcgisAPI4示例:风场粒子可视化效果](https://zhuanlan.zhihu.com/p/1965373289066127921)  
+[vue3+arcgisAPI4示例:智慧林业资源监测分析平台](https://zhuanlan.zhihu.com/p/1957902276300603505)  
 
 ## 地图服务发布操作教程 
 [开源影像tif切图工具gdal2tiles部署以及切图](https://gitee.com/gishome/gis-learning-circle/blob/main/%E5%9C%B0%E5%9B%BE%E6%9C%8D%E5%8A%A1%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B/%E5%BC%80%E6%BA%90%E5%BD%B1%E5%83%8Ftif%E5%88%87%E5%9B%BE%E5%B7%A5%E5%85%B7gdal2tiles%E9%83%A8%E7%BD%B2%E4%BB%A5%E5%8F%8A%E5%88%87%E5%9B%BE.md)  
