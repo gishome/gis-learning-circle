@@ -35,6 +35,7 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+Cesium示例：压平模型](https://zhuanlan.zhihu.com/p/1958173033362622010)  
 [vue3+Cesium示例：风场图](https://zhuanlan.zhihu.com/p/1957901452547690544)  
 [Cesium示例：结合echarts实现物流迁徙图可视化效果](https://zhuanlan.zhihu.com/p/1962811589645305251)  
+[cesium 3dtiles模型单体化点击高亮效果](https://zhuanlan.zhihu.com/p/1967917716607333632)  
 
 ## vue+leaflet示例案例
 [vue3+leaflet示例：在线地图切换](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2)   
@@ -88,6 +89,9 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+arcgisAPI4示例:绘图工具动态修改样式导出GeoJSON](https://zhuanlan.zhihu.com/p/1957892550296838879)  
 [vue3+arcgisAPI4示例:风场粒子可视化效果](https://zhuanlan.zhihu.com/p/1965373289066127921)  
 [vue3+arcgisAPI4示例:智慧林业资源监测分析平台](https://zhuanlan.zhihu.com/p/1957902276300603505)  
+[arcgis api 4.x for js地图加载arcgisserver本地离线瓦片](https://zhuanlan.zhihu.com/p/1967915309185868912)  
+[arcgis api 4.x for js地图加载第三方矢量切片](https://zhuanlan.zhihu.com/p/1967916813967931035)  
+[arcgis api 4.x for js扩展MapImageLayer支持图片图层加载](https://zhuanlan.zhihu.com/p/1967919540051613655)  
 
 ## 地图服务发布操作教程 
 [开源影像tif切图工具gdal2tiles部署以及切图](https://gitee.com/gishome/gis-learning-circle/blob/main/%E5%9C%B0%E5%9B%BE%E6%9C%8D%E5%8A%A1%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B/%E5%BC%80%E6%BA%90%E5%BD%B1%E5%83%8Ftif%E5%88%87%E5%9B%BE%E5%B7%A5%E5%85%B7gdal2tiles%E9%83%A8%E7%BD%B2%E4%BB%A5%E5%8F%8A%E5%88%87%E5%9B%BE.md)  
