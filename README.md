@@ -36,6 +36,7 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+Cesium示例：风场图](https://zhuanlan.zhihu.com/p/1957901452547690544)  
 [Cesium示例：结合echarts实现物流迁徙图可视化效果](https://zhuanlan.zhihu.com/p/1962811589645305251)  
 [cesium 3dtiles模型单体化点击高亮效果](https://zhuanlan.zhihu.com/p/1967917716607333632)  
+[vue3+Cesium示例：三维体渲染](https://zhuanlan.zhihu.com/p/1975890635367130727)  
 
 ## vue+leaflet示例案例
 [vue3+leaflet示例：在线地图切换](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2)   
