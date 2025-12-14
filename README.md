@@ -98,6 +98,7 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+arcgisAPI4示例:实现瓦片地图范围裁剪效果](https://zhuanlan.zhihu.com/p/1970085470844195451)  
 [vue3+arcgisAPI4示例:实现叠加图片视频效果](https://zhuanlan.zhihu.com/p/1971170360935297395)  
 [vue3+arcgisAPI4示例:实现叠加风场图以及风场粒子效果](https://zhuanlan.zhihu.com/p/1972675037204063089)  
+[vue3+arcgisAPI4示例:在线永久基本农田点查询](https://zhuanlan.zhihu.com/p/1982468393606067711)  
 
 ## 地图服务发布操作教程 
 [开源影像tif切图工具gdal2tiles部署以及切图](https://gitee.com/gishome/gis-learning-circle/blob/main/%E5%9C%B0%E5%9B%BE%E6%9C%8D%E5%8A%A1%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B/%E5%BC%80%E6%BA%90%E5%BD%B1%E5%83%8Ftif%E5%88%87%E5%9B%BE%E5%B7%A5%E5%85%B7gdal2tiles%E9%83%A8%E7%BD%B2%E4%BB%A5%E5%8F%8A%E5%88%87%E5%9B%BE.md)  
