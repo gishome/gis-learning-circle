@@ -47,6 +47,7 @@ JavaScript/Vue/React、HTML/CSS、GIS相关知识理论
 [vue3+cesium示例：水淹没分析](https://zhuanlan.zhihu.com/p/1998866855570453150)  
 [vue3+cesium示例：透视分析](https://zhuanlan.zhihu.com/p/2005973725913317544)  
 [vue3+cesium示例：视频融合-视频纹理](https://zhuanlan.zhihu.com/p/2011406007830611315)  
+[vue3+cesium示例：视频融合-视频投射](https://zhuanlan.zhihu.com/p/2051613351579489074)  
 
 ## vue+leaflet示例案例
 [vue3+leaflet示例：在线地图切换](https://gitee.com/gishome/gis-learning-circle/tree/main/vue3+leaflet%E7%A4%BA%E4%BE%8B%E6%A1%88%E4%BE%8B%E9%9B%86%E5%90%88/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9B%BE%E5%88%87%E6%8D%A2)   
